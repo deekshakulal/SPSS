@@ -20,5 +20,5 @@
 - Azari R et Al current security management and ethical issues of information technology. Idea group publishing hershey
 - Ba S, Pablo P(2002)Evidence of the effect of trust building technology in electronic markets:price premiums and buyer behavior.
 - Dennis R owenson G(2016) Two on the roll:peer to peer reputation system based on a rolling blockchain. Int J digital society (UDS) 
-- Blockchain & fraud & detection & prevention - www. rahmanravelli.co.uk
+- Blockchain & fraud & detection & prevention -rahmanravelli.co.uk
 - IEEEXplore- ieeexplore.ieee.org(pdf)
