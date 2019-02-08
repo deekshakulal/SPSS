@@ -43,4 +43,3 @@ analyzes the robustness of blockchain-based reputation systems in each type of r
 - Crisel mathias :
 - Glenisha sequeria :
 - Amber Dangra :
-- Crisel Mathias :
