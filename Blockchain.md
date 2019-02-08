@@ -1,8 +1,8 @@
-### DOMAIN:
+## DOMAIN:
 - **Block chain** 
 ## PROJECT: 
 - **Fraud detection using block chain**
-# Team members:
+## TEAM members:
 - Deeksha
 - Jasirah
 - Crisel Mathias 
