@@ -9,7 +9,7 @@
 - Glenisha Sequeria 
 - Amber Dangra
 
-## *INTRODUCTION*
+## INTRODUCTION
 -   The 21st century is all about technology. With the increasing need for modernization in our day-to-day lives, people are open to accepting new technologies. From using a remote for controlling devices to using voice notes for giving commands; modern technology has made space in our regular lives. Technologies like augmented reality and IoT that have gained pace in the past decade and now there’s a new addition to the pack i.e. *Blockchain Technology.*
 -   Blockchain can be described as a data structure that holds transactional records and while ensuring security, transparency, and decentralization.
 
@@ -32,5 +32,5 @@ analyzes the robustness of blockchain-based reputation systems in each type of r
 - Azari, R. et al current security management and ethical issues of information technology.Idea group publishing hershey
 - Application & Use cases blockchain-CoinDesk
 - Dennis R owenson G(2016) Two on the roll:peer to peer reputation system based on a rolling blockchain. Int J digital society (UDS) 
-- Blockchain & fraud & detection & prevention -rahmanravelli.co.uk
+- Blockchain & fraud  detection & prevention -rahmanravelli.co.uk
 - IEEEXplore- ieeexplore.ieee.org(pdf)
