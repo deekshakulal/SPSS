@@ -6,7 +6,7 @@
 - Deeksha
 - Jasirah
 - Crisel Mathias 
-- Glenisha Sequeria 
+- Glenisha Sequeria
 - Amber Dangra
 
 ## INTRODUCTION
@@ -34,3 +34,13 @@ analyzes the robustness of blockchain-based reputation systems in each type of r
 - Dennis R owenson G(2016) Two on the roll:peer to peer reputation system based on a rolling blockchain. Int J digital society (UDS) 
 - Blockchain & fraud  detection & prevention -rahmanravelli.co.uk
 - IEEEXplore- ieeexplore.ieee.org(pdf)
+
+
+## CONTRIBUTION OF EACH MEMBER OF THE TEAM:
+- Deeksha :
+
+- Jasriah :
+- Crisel mathias :
+- Glenisha sequeria :
+- Amber Dangra :
+- Crisel Mathias :
