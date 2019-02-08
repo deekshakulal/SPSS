@@ -2,7 +2,7 @@
 - **Block chain** 
 ## PROJECT: 
 - **Fraud detection using block chain**
-## TEAM members:
+## TEAM MEMBERS:
 - Deeksha
 - Jasirah
 - Crisel Mathias 
