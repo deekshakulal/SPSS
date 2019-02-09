@@ -46,7 +46,6 @@ The 21st century is all about technology. The modern technology has made space i
 
 ## REFERENCE:
 - Kiyomoto, S., Rahman, M. S., & Basu, A. (2017, June). On blockchain-based anonymized dataset distribution platform. In Software         Engineering Research, Management and Applications (SERA), 2017 IEEE 15th International Conference on (pp. 85-92). IEEE.
-- Blockchain explained:Introduction,meaning,application- Hackernoon.com
 - Azari, R. et al current security management and ethical issues of information technology.Idea group publishing hershey
 - MICHAEL, JW, ALAN COHN, and JARED R. BUTCHER. "BlockChain technology." The Journal (2018).
 - Dennis R owenson G(2016) Two on the roll:peer to peer reputation system based on a rolling blockchain. Int J digital society (UDS) 
