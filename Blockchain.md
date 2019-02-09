@@ -49,14 +49,14 @@ The 21st century is all about technology. The modern technology has made space i
 - Azari, R. et al current security management and ethical issues of information technology.Idea group publishing hershey
 - MICHAEL, JW, ALAN COHN, and JARED R. BUTCHER. "BlockChain technology." The Journal (2018).
 - Dennis R owenson G(2016) Two on the roll:peer to peer reputation system based on a rolling blockchain. Int J digital society (UDS) 
-- Blockchain & fraud  detection & prevention -rahmanravelli.co.uk
-- IEEEXplore- ieeexplore.ieee.org(pdf)
+
+
 
 
 ## CONTRIBUTION OF EACH MEMBER OF THE TEAM:
-- Deeksha :
+- Deeksha : Report preparation & Introduction to blockchain 
 
-- Jasriah :
-- Crisel mathias :
-- Glenisha sequeria :
-- Amber Dangra :
+- Jasriah : report preparation & References 
+- Crisel mathias : Abstract
+- Glenisha sequeria : Documentation designing and resource collection
+- Amber Dangra : Presentation 
