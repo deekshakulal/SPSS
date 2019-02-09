@@ -29,8 +29,12 @@ The 21st century is all about technology. The modern technology has made space i
 
 -   Blockchain can be described as a data structure that holds transactional records and while ensuring security, transparency, and decentralization.Its an underlaying technology behind the success of cryptocurrencies.It is distribited ledger that is completely open to any and everyone on the network. *Once the information is stored on blockchain ,it is extremely difficult to alter it.*
 - All the data stored on a blockchain is secured digitally and each transaction on a blockchain is secured with a digital signature that proves its authenticity .Due to the use of encryption and digital signature , the data stored on a blockchain is temper-proof and cannot be changed.
->> Blockchain technology allows all the network participants to reach an agreement, commonly known as consensus. All the data stored on a blockchain is recorded digitally and has a common history which is available for all the network participants. This way, the chances of any fraudulent activity or duplication of transactions is eliminated without the need of a third-party.
-
+- Blockchain technology allows all the network participants to reach an agreement, commonly known as consensus. All the data stored on a blockchain is recorded digitally and has a common history which is available for all the network participants. This way, **_the chances of any fraudulent activity or duplication of transactions is eliminated without the need of a third-party._**
+### *How Does a Blockchain Work?*
+- A blockchain is a chain of blocks that contain data or information.Each block in a blockchain network stores some information along with the hash of its previous block. A hash is a unique mathematical code which belongs to a specific block.
+- If the information inside the block is modified, the hash of the block will be subject to modification too. The connection of blocks through unique hash keys is what makes blockchain secure.While transactions take place on a blockchain, there are nodes on the network that validate these transactions. 
+- The transaction will take place only and only if the hash is correct. If a hacker tries to attack the network and change information of any specific block, the hash attached to the block will also get modified.
+- The breach will be detected as the modified hash will not match with the original one. This ensures that the blockchain is unalterable as if any change which is made to the chain of blocks will be reflected throughout the entire network and will be detected easily.
 
 
 
