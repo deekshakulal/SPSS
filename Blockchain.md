@@ -9,9 +9,14 @@
 - Glenisha Sequeria
 - Amber Dangra
 
+
+
+
+
 ## INTRODUCTION
 -   The 21st century is all about technology. With the increasing need for modernization in our day-to-day lives, people are open to accepting new technologies. From using a remote for controlling devices to using voice notes for giving commands; modern technology has made space in our regular lives. Technologies like augmented reality and IoT that have gained pace in the past decade and now there’s a new addition to the pack i.e. *Blockchain Technology.*
 -   Blockchain can be described as a data structure that holds transactional records and while ensuring security, transparency, and decentralization.
+
 
 ## ABSTRACT
 - The blockchain is an emerging technology that allows multiple parties to agree on a common state without the need for trusted intermediaries. Moreover, business process technology streamlines the automation of inter- and intra-organizational processes while cutting-down on costs.The reputation system has been designed as an effective mechanism to reduce risks associated with online shoppings
@@ -19,6 +24,7 @@ for customers. However it is vulnerable to rating fraud. Some ratings may inject
 - This study explores the rating fraud by differentiating the subjective fraud from objective fraud. Then it discusses the effectiveness of blockchain technology in objective fraud and its limitation in subjective fraud,especially the rating fraud. Lastly, it systematically 
 analyzes the robustness of blockchain-based reputation systems in each type of rating fraud.
 
+## *INTRODUCTION:*
 
 
 
