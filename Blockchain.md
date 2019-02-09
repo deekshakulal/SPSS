@@ -20,8 +20,15 @@ analyzes the robustness of blockchain-based reputation systems in each type of r
 
 
 ## INTRODUCTION
--   The 21st century is all about technology. With the increasing need for modernization in our day-to-day lives, people are open to accepting new technologies. From using a remote for controlling devices to using voice notes for giving commands; modern technology has made space in our regular lives. Technologies like augmented reality and IoT that have gained pace in the past decade and now there’s a new addition to the pack i.e. *Blockchain Technology.*
--   Blockchain can be described as a data structure that holds transactional records and while ensuring security, transparency, and decentralization.
+
+The 21st century is all about technology. The modern technology has made space in our regular lives . With the increasing need for modernization in our day-to-day lives, people are open to accepting new technologies. Technologies like augmented reality and IoT that have gained pace in the past decade and now there’s a new addition to the pack i.e. *Blockchain Technology.* 
+
+
+### *What is Blockchain?*  
+
+
+-   Blockchain can be described as a data structure that holds transactional records and while ensuring security, transparency, and decentralization.Its an underlaying technology behind the success of cryptocurrencies.It is distribited ledger that is completely open to any and everyone on the network. *Once the information is stored on blockchain ,it is extremely difficult to alter it.*
+- All the data stored on a blockchain is secured digitally and each transaction on a blockchain is secured with a digital signature that proves its authenticity .Due to the use of encryption and digital signature , the data stored on a blockchain is temper-proof and cannot be changed.
 
 
 
