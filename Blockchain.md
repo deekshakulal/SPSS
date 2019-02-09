@@ -28,6 +28,7 @@ analyzes the robustness of blockchain-based reputation systems in each type of r
 
 
 ## REFERENCE:
+- Kiyomoto, S., Rahman, M. S., & Basu, A. (2017, June). On blockchain-based anonymized dataset distribution platform. In Software         Engineering Research, Management and Applications (SERA), 2017 IEEE 15th International Conference on (pp. 85-92). IEEE.
 - Blockchain explained:Introduction,meaning,application- Hackernoon.com
 - Azari, R. et al current security management and ethical issues of information technology.Idea group publishing hershey
 - Application & Use cases blockchain-CoinDesk
