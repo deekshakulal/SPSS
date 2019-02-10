@@ -64,7 +64,7 @@ The 21st century is all about technology. Modern technology has made space in ou
 - Wang, Andy. "Blockchain technology and its applications."
 - MICHAEL, JW, ALAN COHN, and JARED R. BUTCHER. "BlockChain technology." The Journal (2018).
 - Dennis R Swenson G(2016) Two on the roll: peer to peer reputation system based on a rolling blockchain. Int J digital society (UDS) 
-
+- Cai, Y., & Zhu, D. (2016). Fraud detections for online businesses: a perspective from blockchain technology. Financial Innovation, 2(1), 20.
 
 
 
