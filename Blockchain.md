@@ -67,7 +67,8 @@ The 21st century is all about technology. Modern technology has made space in ou
 
 
 
-## CONTRIBUTION OF EACH MEMBER OF THE TEAM:
+## CONTRIBUTION OF PROJECT GUIDE & EACH MEMBER OF THE TEAM:
+- Dr. Shamantha Rai B (*project guide*) : Guiding and sharing resource information also directing, managing and motivating  the project team.
 - Deeksha: Report preparation & Introduction to the blockchain 
 
 
