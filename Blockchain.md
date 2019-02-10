@@ -56,7 +56,7 @@ The 21st century is all about technology. The modern technology has made space i
 ## CONTRIBUTION OF EACH MEMBER OF THE TEAM:
 - Deeksha : Report preparation & Introduction to blockchain 
 
-- Jasriah : report preparation & References 
+- Jasriah : Report preparation & References 
 - Crisel mathias : Abstract
 - Glenisha sequeria : Documentation designing and resource collection
 - Amber Dangra : Presentation 
