@@ -21,7 +21,7 @@
 - Deeksha
 - Jasirah
 - Crisel Mathias 
-- Glenisha Sequeria
+- Glenisha Sequeira
 - Amber Dangra
 
 
@@ -77,6 +77,6 @@ The 21st century is all about technology. Modern technology has made space in ou
 
 
 - Crisel Mathias: Abstract
-- Glenisha Sequeria: Documentation designing and resource collection
+- Glenisha  Sequeira: Documentation designing and resource collection
 - Amber Dangra: Presentation 
 
