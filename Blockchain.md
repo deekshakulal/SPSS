@@ -14,7 +14,7 @@
 ## DOMAIN:
 - **Blockchain** 
 ## PROJECT: 
-- **Fraud detection using blockchain**
+- **Fraud detection using blockchain
 ## PROJECT GUIDE: 
    - **Dr. Shamantha Rai B , Associate Professor & Head of the department**
 ## TEAM MEMBERS:
