@@ -1,27 +1,13 @@
 
-
-
-
-
-
-
-
-
-
-
- 
-
 ## DOMAIN:
 - **Blockchain** 
 ## PROJECT: 
-- **Fraud detection using blockchain
-## PROJECT GUIDE: 
-   - **Dr. Shamantha Rai B , Associate Professor & Head of the department**
+- **Fraud detection using blockchain**
 ## TEAM MEMBERS:
 - Deeksha
 - Jasirah
 - Crisel Mathias 
-- Glenisha Sequeira
+- Glenisha Sequeria
 - Amber Dangra
 
 
@@ -61,15 +47,13 @@ The 21st century is all about technology. Modern technology has made space in ou
 ## REFERENCE:
 - Kiyomoto, S., Rahman, M. S., & Basu, A. (2017, June). On blockchain-based anonymized dataset distribution platform. In Software         Engineering Research, Management and Applications (SERA), 2017 IEEE 15th International Conference on (pp. 85-92). IEEE.
 - Azari, R. et al current security management and ethical issues of information technology.Idea group publishing Hershey
-- Wang, Andy. "Blockchain technology and its applications."
 - MICHAEL, JW, ALAN COHN, and JARED R. BUTCHER. "BlockChain technology." The Journal (2018).
 - Dennis R Swenson G(2016) Two on the roll: peer to peer reputation system based on a rolling blockchain. Int J digital society (UDS) 
-- Cai, Y., & Zhu, D. (2016). Fraud detections for online businesses: a perspective from blockchain technology. Financial Innovation, 2(1), 20.
 
 
 
-## CONTRIBUTION OF PROJECT GUIDE & EACH MEMBER OF THE TEAM:
-- Dr. Shamantha Rai B (*project guide*) : Guiding and sharing resource information also directing, managing and motivating  the project team.
+
+## CONTRIBUTION OF EACH MEMBER OF THE TEAM:
 - Deeksha: Report preparation & Introduction to the blockchain 
 
 
@@ -77,6 +61,6 @@ The 21st century is all about technology. Modern technology has made space in ou
 
 
 - Crisel Mathias: Abstract
-- Glenisha  Sequeira: Documentation designing and resource collection
+- Glenisha Sequeria: Documentation designing and resource collection
 - Amber Dangra: Presentation 
 
